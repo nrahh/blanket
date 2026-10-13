@@ -1,0 +1,8 @@
+#contact-us {
+    --liquid-button-background-color: oklch(0.502 0.184 261.39);
+    --liquid-button-color: oklch(0.38 0.138 261.887);
+}
+#designs {
+    --liquid-button-background-color: oklch(1 0 0 / 0.1);
+    --liquid-button-color: oklch(0.985 0 0 / 0.08);
+}
